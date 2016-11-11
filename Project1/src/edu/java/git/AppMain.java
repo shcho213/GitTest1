@@ -12,7 +12,7 @@ public class AppMain {
 
 	}
 	private void ses(){
-		System.out.println("새로운 기능 추가");
+		System.out.println("bug fix");
 
 		
 	}
