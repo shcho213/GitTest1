@@ -12,7 +12,7 @@ public class AppMain {
 
 	}
 	private void ses(){
-		System.out.println("새로운 기능 추가");
+		System.out.println("나 도 수 정 했 음...");
 
 		
 	}
